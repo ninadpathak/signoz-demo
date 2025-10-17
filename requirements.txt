@@ -1,0 +1,4 @@
+flask
+opentelemetry-distro==0.43b0
+opentelemetry-exporter-otlp==1.22.0
+opentelemetry-instrumentation-flask
